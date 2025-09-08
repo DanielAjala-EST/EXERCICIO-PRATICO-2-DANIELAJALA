@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PRODUTOS</title>
+    <style>
+      body{color:purple;}
+      body{font-family:arial;}
+      table{color:red;}
+      table{font-family:verdana;}
+     
+    </style>
+  <body>
+      <h1 class="title">TABELA DE PRODUTOS</h1>
+      <table border="1">
+        <tr>
+            <th>Produto</th>
+            <th>Descrição</th>
+            <th>Preço(R$)</th>
+        </tr>
+        <tr>
+            <th>Notebook</th>
+            <th>Computador portátil 8GB de RAM e 256GB de SSD</th>
+            <th>3.500,00</th>
+        </tr>
+        <tr>
+            <th>Smartphone</th>
+            <th>Celular com câmera 48MP E 128GB de armazenamento</th>
+            <th>2.200,00</th>
+        </tr>
+        <tr>
+            <th>Monitor</th>
+            <th>Monitor com 24 polegadas com resolução FULL HD</th>
+            <th>800,00</th>
+        </tr>
+        <tr>
+            <th>Teclado</th>
+            <th>Teclado mecânico com iluminação RGB</th>
+            <th>250,00</th>
+        </tr>
+        <tr>
+            <th>Mouse</th>
+            <th>Mouse sem fio com sensor óptico de alta precisão</th>
+            <th>120,00</th>
+        </tr>
+      </table>  
+  </body>
+</html>
