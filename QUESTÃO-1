@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      input{color:red;background-color: white; margin:10px}
+      h1{font-family: verdana; font-size:150%;}
+      h2{color:Blue; font-family: Arial;
+      p{:font-family:ARial;}
+      
+    </style>
+    <title>Hello, World!</title>
+       <img src="https://uploads.onecompiler.io/43w4t9fnk/43w4s928s/bruno.jpeg"/>
+  </head>
+  <body>
+      <h1 class="title">DANIEL AJALA</h1> 
+      <h2>Ciência da Computação</h2>
+      <P>Olá! Sou o Daniel e gosto muito de programar. Tenho experiência em HTML, CSS e PYTHON. 
+      Adoro ficar por dentro das notícias de tecnologia.</P>
+      <input type="submit" value="HTML">
+      <input type="submit" value="CSS">
+      <input type="submit" value="JS">
+      <input type="submit" value="REACT">
+      
+  </body>
+</html>
